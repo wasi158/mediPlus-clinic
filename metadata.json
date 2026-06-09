@@ -1,0 +1,6 @@
+{
+  "name": "MediPlus Clinic OS",
+  "description": "A high-performance clinic operating system workspace featuring patient registration, token generation, laboratory management, doctor OPD consultation, pharmacy inventory POS, unified billing services, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
